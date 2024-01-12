@@ -48,8 +48,8 @@ Contributions are welcome. Please open an issue or pull request for any changes 
 
 3.Install server dependencies:
 
-   ```bash```
-   npm install
+      ```bash```
+      npm install
 
 4. Start the server:
 
