@@ -30,10 +30,45 @@ Users can create, read, update, and delete tasks. All tasks are stored in MongoD
 ### 🙏 Contributions 🙏
 Contributions are welcome. Please open an issue or pull request for any changes or improvements you wish to make.
 
-### 📝 License 📝
-This project is under the MIT license.
-
-### 📞 Contact 📞
-If you have any questions or comments, please feel free to contact me.
-
 ### 🎉 Enjoy the project! 🎉
+
+---
+
+# Deployment
+
+1. Clone the repository:
+
+   ```bash```
+   git clone https://github.com/Ikergonzalez4/Auth.git
+
+2. Navigate to the project directory:
+
+```bash```
+cd Auth
+
+3.Install server dependencies:
+
+```bash```
+npm install
+
+4. Start the server:
+
+```bash```
+npm run dev
+
+5. In another terminal, navigate to the client directory:
+
+```bash```
+cd client
+
+6. Install client dependencies:
+
+```bash```
+npm install vite
+
+7. Start the client:
+
+```bash```
+npm run dev
+
+8. Open your browser and go to localhost:5173 to view the application in action.
