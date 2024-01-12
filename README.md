@@ -50,7 +50,7 @@ Contributions are welcome. Please open an issue or pull request for any changes 
 3.Install server dependencies:
 
    ```bash
-   npm install
+      npm install
    ```
 4. Start the server:
 
@@ -68,7 +68,8 @@ Contributions are welcome. Please open an issue or pull request for any changes 
    npm install vite
    ```
 8. Start the client:
-   
-      npm run dev
 
+   ```bash
+   npm run dev
+   ```
 9. Open your browser and go to localhost:5173 to view the application in action.
