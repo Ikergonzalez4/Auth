@@ -42,9 +42,8 @@ Contributions are welcome. Please open an issue or pull request for any changes 
    git clone https://github.com/Ikergonzalez4/Auth.git
 
 2. Navigate to the project directory:
-
-   ```bash```
-   cd Auth
+   
+      cd Auth
 
 3.Install server dependencies:
 
@@ -52,22 +51,18 @@ Contributions are welcome. Please open an issue or pull request for any changes 
 
 4. Start the server:
 
-   ```bash```
-   npm run dev
+      npm run dev
 
 5. In another terminal, navigate to the client directory:
 
-   ```bash```
-   cd client
+      cd client
 
 6. Install client dependencies:
 
-   ```bash```
-   npm install vite
+      npm install vite
 
 7. Start the client:
-
-   ```bash```
-   npm run dev
+   
+      npm run dev
 
 8. Open your browser and go to localhost:5173 to view the application in action.
