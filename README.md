@@ -47,7 +47,7 @@ Contributions are welcome. Please open an issue or pull request for any changes 
    ```bash
    cd Auth
    ```
-   3.Install server dependencies:
+3. Install server dependencies:
 
    ```bash
    npm install
