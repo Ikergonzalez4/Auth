@@ -1,4 +1,4 @@
-### 🚀 MERN Task Manager & Authentication 🚀
+# 🚀 MERN Task Manager & Authentication 🚀
 This project is a full-featured task management application with authentication, built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Additionally, Tailwind CSS is used for a modern and responsive design.
 
 ## 📚 Features 📚
@@ -21,19 +21,19 @@ Navigate to http://localhost:3000 in your browser
 ## 📖 Documentation 📖
 The project consists of two main parts: user authentication and task management.
 
-# User Authentication
+### User Authentication
 Users can sign up and log in. User passwords are securely stored using bcrypt.
 
-# Task Management
+### Task Management
 Users can create, read, update, and delete tasks. All tasks are stored in MongoDB.
 
-## 🙏 Contributions 🙏
+### 🙏 Contributions 🙏
 Contributions are welcome. Please open an issue or pull request for any changes or improvements you wish to make.
 
-## 📝 License 📝
+### 📝 License 📝
 This project is under the MIT license.
 
-## 📞 Contact 📞
+### 📞 Contact 📞
 If you have any questions or comments, please feel free to contact me.
 
-## 🎉 Enjoy the project! 🎉
+### 🎉 Enjoy the project! 🎉
