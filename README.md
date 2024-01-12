@@ -42,15 +42,15 @@ Contributions are welcome. Please open an issue or pull request for any changes 
    git clone https://github.com/Ikergonzalez4/Auth.git
    ```
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 
    ```bash
    cd Auth
    ```
-3.Install server dependencies:
+   3.Install server dependencies:
 
    ```bash
-      npm install
+   npm install
    ```
 4. Start the server:
 
